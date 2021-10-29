@@ -1,3 +1,10 @@
-# This is practice project with GraphQl Apollo
+# Practice project with GraphQl Apollo
 
-Link to frontend: 
+To run this project: 
+    
+    git clone <url to my project>
+    
+        cd client/ npm start
+    
+        cd server/ npm run server
+
